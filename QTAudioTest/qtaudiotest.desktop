@@ -1,0 +1,5 @@
+Type=Application
+Name=QTAudioTest
+Icon=qtaudiotest
+Exec=QTAudioTest
+Categories=Development;
